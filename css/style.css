@@ -64,7 +64,9 @@ h2 {
   font-size: 15px;
   vertical-align: middle;
 }
-
+.home {
+  color: rgb(92, 59, 59);
+}
 footer {
   text-align: center;
   margin-top: 20px;
