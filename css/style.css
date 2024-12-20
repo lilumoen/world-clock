@@ -1,6 +1,8 @@
 .container {
   max-width: 320px;
-  background-image: url("clock.jpg");
+  background-image: url("clock-4.jpg");
+  background-repeat: none;
+  background-size: cover;
   padding: 40px;
   margin: 20px auto;
   box-shadow: rgba(100, 100, 111, 0.8) 0px 7px 29px 0px;
@@ -12,7 +14,7 @@ body {
   background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
   font-weight: 400;
   font-style: normal;
-  color: rgb(247, 244, 240);
+  color: #505d6b;
 }
 
 select {
@@ -32,7 +34,7 @@ h1 {
   font-family: sans-serif;
   font-weight: 800;
   font-style: normal;
-  color: rgb(227, 224, 221);
+  color: #505d6b;
 }
 h2 {
   font-size: 27px;
