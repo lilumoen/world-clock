@@ -1,6 +1,6 @@
 .container {
   max-width: 320px;
-  background-image: url("clock-4.jpg");
+  background-image: url("hourglass.jpg");
   background-repeat: none;
   background-size: cover;
   padding: 40px;
@@ -14,7 +14,7 @@ body {
   background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
   font-weight: 400;
   font-style: normal;
-  color: #505d6b;
+  color: #d55b6f;
 }
 
 select {
@@ -34,7 +34,7 @@ h1 {
   font-family: sans-serif;
   font-weight: 800;
   font-style: normal;
-  color: #505d6b;
+  color: #d5485f;
 }
 h2 {
   font-size: 27px;
