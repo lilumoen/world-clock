@@ -13,8 +13,9 @@ body {
   font-family: "Bebas Neue", serif;
   background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
   font-weight: 400;
+  padding-top: 90px;
   font-style: normal;
-  color: #d55b6f;
+  color: #860f23;
 }
 
 select {
@@ -34,7 +35,7 @@ h1 {
   font-family: sans-serif;
   font-weight: 800;
   font-style: normal;
-  color: #d5485f;
+  color: #860f23;
 }
 h2 {
   font-size: 27px;
