@@ -1,6 +1,6 @@
 .container {
   max-width: 320px;
-  background-image: url("hourglass.jpg");
+  background-image: url("../css/barcelona-architecture-2.JPG");
   background-repeat: none;
   background-size: cover;
   padding: 40px;
@@ -15,7 +15,7 @@ body {
   font-weight: 400;
   padding-top: 90px;
   font-style: normal;
-  color: #860f23;
+  color: #ffffff;
 }
 
 select {
@@ -31,11 +31,14 @@ select {
 h1 {
   margin-top: 10px;
   text-align: center;
-  font-size: 30px;
+  font-size: 34px;
+  font-family: "poppins", sans-serif;
+  font-weight: 900;
+  margin-bottom: 30px;
   font-family: sans-serif;
   font-weight: 800;
   font-style: normal;
-  color: #860f23;
+  color: #ffffff;
 }
 h2 {
   font-size: 27px;
@@ -45,7 +48,7 @@ h2 {
   display: flex;
   justify-content: space-between;
   margin: 10px 0;
-  border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   padding: 20px 0;
 }
 .city:last-child {
@@ -65,7 +68,7 @@ h2 {
   vertical-align: middle;
 }
 .home {
-  color: rgb(92, 59, 59);
+  color: rgb(255, 255, 255);
 }
 footer {
   text-align: center;
